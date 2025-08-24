@@ -1,7 +1,5 @@
 # AI-Translator-GUI
 
-[![Python](https://img.shields.io/badge/python-3.x-blue)](https://www.python.org/) [![OpenAI](https://img.shields.io/badge/OpenAI-GPT-4-orange)](https://openai.com/)  
-
 A **desktop AI-powered translator** built with **Python** and **Tkinter**, using **OpenAI GPT-4** to translate text between multiple languages in a simple, interactive GUI.
 
 ---
